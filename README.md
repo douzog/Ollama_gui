@@ -5,13 +5,13 @@ A lightweight Python GUI chat app using tkinter that connects to a local Ollama 
 
 Sending prompts to a local Ollama model (e.g., Lamma3), and saving .json files (Path: home/ollama_vault) and display responses.
 
-It works accross-platforms: wmacOS and Windows!
+It works accross-platforms: macOS and Windows!
 
 ![alt text](Ollama_gui.png)
 
 Simply:
 1. Download or Clone this repo and Ollama
-2. Comile app (Windows or MacOS)
+2. Compile app (Windows or MacOS)
 3. Execute: ollama_gui
 
 Prerequisites:
