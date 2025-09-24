@@ -1,4 +1,5 @@
-Hi! Welcome to my OllamaChat demo on building a little Ollama-powered chatbox on your computer!
+# Hi! 
+Welcome to my OllamaChat demo on building a little Ollama-powered chatbox on your computer!
 
 A lightweight Python GUI chat app using tkinter that connects to a local Ollama instance.
 
@@ -6,8 +7,11 @@ Sending prompts to a local Ollama model (e.g., LLaMA 3), and saving .json files 
 
 It works accross-platforms: wmacOS and Windows!
 
+![alt text](ollama_gui.png)
+
+
 Simply:
-1. Download or Clone repo and Ollama
+1. Download or Clone this repo and Ollama
 2. Comile app (Windows or MacOS)
 3. Execute: ollama_gui
 
@@ -23,13 +27,13 @@ Prerequisites:
 - os
 
 Terminal Commands:
-MAC OS:
+## MAC OS:
 $ pyinstaller --windowed --onefile ollama_gui.py
 
-Windows OS:
+## Windows OS:
 $ pyinstaller --windowed --onefile ollama_gui.py
 
-Simply click on the ollama_gui executable to run! (Path: dist/ollama_gui)
+Click on the ollama_gui executable to run! (Path: dist/ollama_gui)
 
 Happy prompting!
 
