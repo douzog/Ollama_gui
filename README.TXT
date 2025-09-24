@@ -2,7 +2,7 @@ Hi! Welcome to my OllamaChat demo on building a little Ollama-powered chatbox on
 
 A lightweight Python GUI chat app using tkinter that connects to a local Ollama instance.
 
-Sending prompts to a local Ollama model (e.g., LLaMA 3), and saving and display responses in a scrollable interface.
+Sending prompts to a local Ollama model (e.g., LLaMA 3), and saving .json files (Path: home/ollame_vault) and display responses.
 
 It works accross-platforms: wmacOS and Windows!
 
