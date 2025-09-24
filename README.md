@@ -26,10 +26,10 @@ Prerequisites:
 - os
 
 Terminal Commands:
-## MAC OS:
+## MacOS/Linux:
 $ pyinstaller --windowed --onefile ollama_gui.py
 
-## Windows OS:
+## WindowsOS:
 $ pyinstaller --windowed --onefile ollama_gui.py
 
 Click on the ollama_gui executable to run! (Path: dist/ollama_gui)
