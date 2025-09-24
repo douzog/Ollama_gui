@@ -7,8 +7,7 @@ Sending prompts to a local Ollama model (e.g., LLaMA 3), and saving .json files 
 
 It works accross-platforms: wmacOS and Windows!
 
-![alt text](ollama_gui.png)
-
+![alt text](Ollama_gui.png)
 
 Simply:
 1. Download or Clone this repo and Ollama
